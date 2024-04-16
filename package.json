@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@tets1234242241412/velit-velit-voluptatum-velit",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/tets1234242241412/velit-velit-voluptatum-velit.git"
   },
   "dependencies": {
     "ejs": "^3.1.9",
